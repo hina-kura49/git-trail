@@ -13,7 +13,7 @@ cargo install git-trail
 Or from source:
 
 ```bash
-git clone https://github.com/h-kurashina/git-trail
+git clone https://github.com/hina-kura49/git-trail
 cd git-trail
 cargo install --path .
 ```
